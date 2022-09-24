@@ -1,9 +1,16 @@
 .color-list-wrap {
     width: 100vw;
-    height: calc(100% - 50px);
+    height: calc(100% - 60px);
     display: flex;
 }
 .color-list {
     flex: 1;
-    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.color-code {
+    font-weight: bold;
+    text-align: center;
+    opacity: 0.4;
 }
