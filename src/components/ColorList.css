@@ -9,8 +9,15 @@
     justify-content: center;
     align-items: center;
 }
-.color-code {
+.color-list-tools {
     font-weight: bold;
+    font-size: 18px;
     text-align: center;
     opacity: 0.4;
+    display: flex;
+}
+.change-icon {
+    margin-left: 5px;
+    cursor: pointer;
+    font-weight: bold;
 }
