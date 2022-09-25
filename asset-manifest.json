@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color-palette/static/css/main.b23f0f13.css",
+    "main.js": "/color-palette/static/js/main.f14008e2.js",
+    "index.html": "/color-palette/index.html",
+    "main.b23f0f13.css.map": "/color-palette/static/css/main.b23f0f13.css.map",
+    "main.f14008e2.js.map": "/color-palette/static/js/main.f14008e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b23f0f13.css",
+    "static/js/main.f14008e2.js"
+  ]
+}
