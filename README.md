@@ -1,6 +1,6 @@
 # Color Palette
 
-노마드코더 개발자 모임 1주차
+노마드코더 개발자 모임 1주차   
 reference : https://www.palettable.io/E67399
 
 ## Concept
